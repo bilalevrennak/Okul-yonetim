@@ -1,0 +1,14 @@
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.csproj.AssemblyReference.cache
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.csproj.SuggestedBindingRedirects.cache
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul_yonetim.Form1.resources
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul_yonetim.Properties.Resources.resources
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.csproj.GenerateResource.cache
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.csproj.CoreCompileInputs.cache
+D:\vs\okul-yonetim\okul-yonetim\bin\Debug\okul-yonetim.exe.config
+D:\vs\okul-yonetim\okul-yonetim\bin\Debug\okul-yonetim.exe
+D:\vs\okul-yonetim\okul-yonetim\bin\Debug\okul-yonetim.pdb
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.exe
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul-yonetim.pdb
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul_yonetim.ogrenci.resources
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul_yonetim.yonetim.resources
+D:\vs\okul-yonetim\okul-yonetim\obj\Debug\okul_yonetim.ders.resources
